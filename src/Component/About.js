@@ -1,5 +1,5 @@
 import React from "react";
-
+import Portfolio from './Portfolio';
 const About = () => {
   return (
     <div
@@ -14,25 +14,16 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        I am a frontend developer specializes in creating the visual and interactive elements of a website or web application. I use HTML, CSS, JavaScript,REACT JS, Tailwind CSS, to build user interfaces, ensuring a seamless and engaging user experience. Their role bridges design and technology, bringing creative concepts to life on the web.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        my main focus on creating visually appealing and user-friendly interfaces, ensuring seamless user interactions. Their work combines technical skills and creativity to deliver engaging digital experiences. currently i also focus on learning NODE JS and built a Fullstack project using Javascript library and also learning some database like MONGODB and SQL
         </p>
       </div>
+      <Portfolio/>
     </div>
   );
 };

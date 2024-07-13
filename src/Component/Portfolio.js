@@ -1,10 +1,11 @@
 import React from "react";
 import arrayDestruct from "../assets/omdb1.png";
-import installNode from "../assets/javascript.png";
+import installNode from "../assets/Tmovie.png";
 import navbar from "../assets/homepage (1).png";
-import reactParallax from "../assets/united1 clone.png";
+import reactParallax from "../assets/beach.png";
 import reactSmooth from "../assets/Output (2).png";
 import reactWeather from "../assets/united1 clone.png";
+import Experience from "./Experince";
 
 const Portfolio = () => {
   const portfolios = [
@@ -67,6 +68,7 @@ const Portfolio = () => {
           ))}
         </div>
       </div>
+      <Experience/>
     </div>
   );
 };

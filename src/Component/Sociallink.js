@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/akash-dubey-804511241/",
+      href: "https://www.linkedin.com/in/kartikey-shukla-22826a249/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/uakashdk",
+      href: "https://github.com/panditkartikey",
     },
     {
       id: 3,
